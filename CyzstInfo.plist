@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://nj01ct01.baidupcs.com/file/a6cace7c41ed28d0be6161b444334931?bkt=p3-00003e97022949f1880bcd51cedf91f8aa3e&amp;fid=3948016774-250528-259745778464659&amp;time=1510293048&amp;sign=FDTAXGERLQBHSK-DCb740ccc5511e5e8fedcff06b081203-Pxjt8DUWo53c%2F7z69nLeS8sYycQ%3D&amp;to=63&amp;size=45589606&amp;sta_dx=45589606&amp;sta_cs=0&amp;sta_ft=ipa&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=MH,Yangquan,Anywhere,,shanghai,ct&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=00003e97022949f1880bcd51cedf91f8aa3e&amp;sl=79364174&amp;expires=8h&amp;rt=sh&amp;r=694935393&amp;mlogid=7272734707570658456&amp;vuk=3948016774&amp;vbdid=2926500322&amp;fin=spcyios.ipa&amp;fn=spcyios.ipa&amp;rtype=1&amp;iv=0&amp;dp-logid=7272734707570658456&amp;dp-callid=0.1.1&amp;hps=1&amp;tsl=100&amp;csl=100&amp;csign=uMTjFMOMaFX2vHwIpCWwqJyeU7M%3D&amp;so=0&amp;ut=6&amp;uter=4&amp;serv=0&amp;uc=1471332372&amp;ic=3688419700&amp;ti=d442a54618453d01bc276deea94b3fb49b995791eb28f67f&amp;by=themis，https://pan.baidu.com/s/1o8NxHF0</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://nj01ct01.baidupcs.com/file/79e58d1a69a716d4d246e24f48b0f77a?bkt=p3-140079e58d1a69a716d4d246e24f48b0f77a70068cda00000001111d&amp;fid=3948016774-250528-896841038289176&amp;time=1510294106&amp;sign=FDTAXGERLQBHSK-DCb740ccc5511e5e8fedcff06b081203-GH%2F5q8f6oRD1qNvNVqiLBmyuEMQ%3D&amp;to=63&amp;size=69917&amp;sta_dx=69917&amp;sta_cs=0&amp;sta_ft=png&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=MH,Yangquan,Anywhere,,shanghai,ct&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=140079e58d1a69a716d4d246e24f48b0f77a70068cda00000001111d&amp;sl=79364174&amp;expires=8h&amp;rt=sh&amp;r=254959763&amp;mlogid=7273018826118192530&amp;vuk=3948016774&amp;vbdid=2926500322&amp;fin=cyzst.png&amp;fn=cyzst.png&amp;rtype=1&amp;iv=0&amp;dp-logid=7273018826118192530&amp;dp-callid=0.1.1&amp;hps=1&amp;tsl=100&amp;csl=100&amp;csign=uMTjFMOMaFX2vHwIpCWwqJyeU7M%3D&amp;so=0&amp;ut=6&amp;uter=4&amp;serv=0&amp;uc=1471332372&amp;ic=3688419700&amp;ti=1b6a0dc3e2a5cf88f4aa8cbfaf042218a0d0603fd3cb79a1&amp;by=themis，https://pan.baidu.com/s/1qXItGi4</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.cyw.XDYCar1000</string>
+				<key>bundle-version</key>
+				<string>3.3.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>车音掌上通</string>
+				<key>title</key>
+				<string>车音掌上通</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
